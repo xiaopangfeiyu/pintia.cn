@@ -1,0 +1,4 @@
+.auth/
+output/
+__pycache__/
+.venv/
